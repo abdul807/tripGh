@@ -1,0 +1,154 @@
+body{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.logo{
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+
+}
+
+
+img{
+/* position: absolute; */
+
+width: 181px;
+height: 185.41px;
+left: 106px;
+top: 175px;
+background-image: url(https://s3-alpha-sig.figma.com/img/b165/bae7/543c708a0a437002416208452ab21f96?Expires=1673827200&Signature=CEdqZb~fciaUeLKbcn2lvFr67sGIJJmK2DfUTxHH7tz0Aw3J0z4nXDNoA-B7SLu-CrpZ6X8dkGXTqIyADf8InV-FHVsBxie7mfShloSMArUHvo~3C3~FFpF6vHQKfRlqnBCV9u0-nZG~4eRXfbjovwTIfJfG7qPYNis0zRSQi84NUY1jYC8WSikinTtdP3Glca7MYSE1prNqI629D6vAdC~jdamLSCMu8Lt6V82QtB3tVjh6qZL7pE69Imib34YFrk2FeROa51wlnd38hjBn~LTPMBlG-FObEuIkNnJxoZdyZ7snC~GP6fpBK9EqBF3aTxNWyReV2WUCdDPNdYR-qA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4);
+
+ 
+}
+
+.heading{
+    color: blue;
+    text-align: center;
+}
+
+
+.details{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.email{
+    /* position: absolute; */
+width: 336px;
+height: 55px;
+left: 29px;
+top: 408px;
+background: #FFFFFF;
+border: 1px solid #4A6CD1;
+border-radius: 10px;
+}
+
+.Password{
+width: 336px;
+height: 55px;
+left: 29px;
+top: 491px;
+background: #FFFFFF;
+border: 1px solid #4A6CD1;
+border-radius: 10px;
+margin-top: 20px;
+}
+
+
+
+
+.forget{
+
+width: 121px;
+height: 17px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14.327px;
+line-height: 17px;
+color: #4A6CD1;
+
+}
+
+.item1{
+    text-align: right;
+}
+
+/* .item2{
+    align-self: center;
+    width: 336px;
+ height: 56px;
+ justify-content: center;
+ align-items: center;
+ 
+ background: #4A6CD1;
+ border-radius: 10px;
+
+} */
+
+/* .bottom{
+     height: 300px;
+     /* width: 300px; */
+     /* background-color: #4A6CD1; */
+     /* justify-content: space-around; */
+     
+
+     
+
+
+
+/* .item1{
+    color: black;
+    align-self: center;
+    float: right;
+    /* height: 100px;
+    width: 100px; */
+    /* background-color: red; */
+
+
+
+
+
+/* 
+
+.bottom{
+    align-items: center;
+    text-align: center;
+}
+
+.item1{
+    float: right;
+}
+
+
+.item3{
+
+    width: 336px;
+height: 56px;
+color: white;
+text-transform: uppercase;
+top: 621px;
+text-align: center;
+
+background: #4A6CD1;
+border-radius: 10px;
+} 
+
+.bottom > .item1{
+    
+    justify-content: end;
+}
+
+
+ */
