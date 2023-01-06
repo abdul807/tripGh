@@ -65,33 +65,21 @@ border-radius: 10px;
 }
 
 
-.lineleft{
-    /* position: absolute; */
-width: 115px;
-height: 0px;
-/* /* left: 100px; */
-/* top: 716px;  */
 
-border: 0.8px solid #D7D6D6;
-}
 
-.lineright{
-    /* position: absolute; */
-width: 115px;
-height: 0px;
- /* left: 257px; */
-/* top: 100px; 
-float: right; */
 
-border: 0.8px solid blue;
-}
+hr{
+    width:100px;
+    margin:10px
+    
+    }
+   
 .flex-container{
-    display: flex;
-    justify-content: space-between;
-    /* align-items: center; */
+    display:flex;
+    justify-content:center;
+    align-items:center;
     
-    
-}
+    }
 /* .signup{
     width: 336px;
 height: 56px;

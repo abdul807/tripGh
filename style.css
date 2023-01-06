@@ -1,0 +1,21 @@
+.category{
+    display: flex;
+    flex-direction: column;
+}
+
+.img{
+    display: flex;
+   
+}
+
+img{
+    margin: 10px;
+}
+
+.heading{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
