@@ -81,10 +81,31 @@ color: #4A6CD1;
 
 }
 
-.item1{
-    text-align: right;
+
+
+.bottom{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-width: 100vh;
+    /* height: 1000px; */
+    /* background-color: black; */
+    /* color: white; */
+    
+
 }
 
+/* .item1{
+ 
+    left: 400px;
+}
+
+.item2{
+    float: right;
+}
+.item3{
+    float: ;
+} */
 /* .item2{
     align-self: center;
     width: 336px;
